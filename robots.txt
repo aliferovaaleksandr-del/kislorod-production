@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# Google
+User-agent: Googlebot
+Allow: /
+
+# Yandex
+User-agent: Yandex
+Allow: /
+
+# Bing
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://aliferovaaleksandr-del.github.io/kislorod-production/sitemap.xml
